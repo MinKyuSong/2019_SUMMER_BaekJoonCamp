@@ -1,3 +1,6 @@
+// 정점 분리. 화면+클립보드 가 정점의 의미임.
+// 화면, 클립보드 순서있게 push, pop 하면 일차원으로 처리 가능
+
 #include <iostream>
 #include <queue>
 
